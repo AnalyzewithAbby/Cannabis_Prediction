@@ -1,0 +1,336 @@
+,Gender,Age,Department,College,CU,FT,ACCESS,FS,OU,TU,MODE,PURPOSE,CPM,GPA,CA,SH,EMC,EMA,SE,SU,EF,UWF,FEU,HU,LU,P/S,OUCF,HSCU
+1,Female,25 - 29 years,Economics and Statistics ,Humanities,No,,,At home,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+2,Female,20 - 24 years,Economics and Statistics ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+3,Male,20 - 24 years,Information Technology ,Basic and Applied Sciences,Yes,Other,Yes,From a friend,Monthly,Hybrid,Other,To enhance creativity,Gh15,3.60 - 4.00,Always,Above 30 hours,No,No,Negative,No,Yes,1 - 5 times,No,Yes,Yes,Both,1 - 5 times,Yes
+4,Male,20 - 24 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,No effect,,Yes,,No,No,No,,,
+5,Male,20 - 24 years,Mathematical sciences,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+6,Male,20 - 24 years,Statistics,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Positive,,Yes,,Yes,Yes,Yes,,,
+7,Female,20 - 24 years,Economic  ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+8,Female,20 - 24 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+9,Male,20 - 24 years,Psychology ,Humanities,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,Yes,,,
+10,Male,30 years and above,School of Agriculture ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,Yes,,,
+11,Male,25 - 29 years,Mathematics ,Basic and Applied Sciences,No,,,At home,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,No effect,,No,,No,Yes,No,,,
+12,Male,20 - 24 years,Biomedical engineering,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,Always,Above 30 hours,,,Positive,,No,,Yes,Yes,Yes,,,
+13,Female,20 - 24 years,Sociology ,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+14,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+15,Male,15 - 19 years,Computer Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+16,Female,20 - 24 years,Accounting ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+17,Male,20 - 24 years, Mathematics ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Not often,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+18,Female,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+19,Male,25 - 29 years,Mathematics and Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,Negative,,No,,No,No,No,,,
+20,Female,15 - 19 years,Languages ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+21,Female,20 - 24 years,Mathematics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,No effect,,No,,No,Yes,No,,,
+22,Male,20 - 24 years,Mathematics,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+23,Female,20 - 24 years,Linguistics,Humanities,No,,,From a friend,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Positive,,Yes,,No,No,No,,,
+24,Female,15 - 19 years,Economics Geography and Archaeology ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+25,Male,20 - 24 years,Actuarial science and statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,No effect,,No,,No,Yes,Yes,,,
+26,Female,20 - 24 years, Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+27,Male,20 - 24 years,Actuarial Science and Statistics,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,No effect,,Yes,,No,Yes,Yes,,,
+28,Female,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,At home,,,,,,Below 2.00,Always,21 - 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+29,Female,20 - 24 years,Actuarial science and Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+30,Male,15 - 19 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,No effect,,No,,No,Yes,No,,,
+31,Female,15 - 19 years,Mathematics and statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+32,Female,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,At a party,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,Yes,,No,Yes,No,,,
+33,Male,20 - 24 years,Actuarial science and Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+34,Female,20 - 24 years,Statistics and mathematics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+35,Male,20 - 24 years,Psychology and sociology  ,Humanities,Yes,Peer pressure,Yes,At home,Rarely,Sativa,Edibles,To relax,Gh25,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,6 - 10 times,Yes,No,Yes,Personal choice,1 - 5 times ,No
+36,Female,20 - 24 years,Statistics and Actuarial  ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,Yes,,No,Yes,No,,,
+37,Male,25 - 29 years,Chemistry ,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+38,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,At a party,,,,,,Below 2.00,Not often,1 - 10 hours,,,No effect,,Yes,,Yes,Yes,Yes,,,
+39,Male,20 - 24 years,Mathematics and Statistics Department,Basic and Applied Sciences,No,,,From a family member,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Positive,,Yes,,Yes,No,Yes,,,
+40,Male,20 - 24 years,Computer science,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,No,,No,No,No,,,
+41,Male,20 - 24 years,Department  of Computer Science and IT,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+42,Female,20 - 24 years,Statistics and Actuarial science department ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+43,Female,20 - 24 years,Actuarial and Statistics Department,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+44,Female,20 - 24 years,Basic and Applied Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,,,No effect,,Yes,,No,No,Yes,,,
+45,Male,20 - 24 years,Statisticds,Basic and Applied Sciences,No,,,At a party,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Positive,,No,,Yes,No,No,,,
+46,Male,25 - 29 years,Mathematics ,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+47,Male,20 - 24 years,Education ,Education,No,,,At a party,,,,,,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+48,Female,20 - 24 years,Economics and Statistics ,Humanities,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,No,Yes,,,
+49,Female,20 - 24 years,Actuarial science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,No effect,,No,,No,No,No,,,
+50,Female,20 - 24 years,Mathematics and statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Positive,,Yes,,No,No,No,,,
+51,Male,20 - 24 years,Mathematics,Basic and Applied Sciences,No,,,At home,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Positive,,Yes,,Yes,Yes,Yes,,,
+52,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Not often,21 - 30 hours,,,No effect,,Yes,,No,No,No,,,
+53,Female,20 - 24 years,Education ,Education,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+54,Male,25 - 29 years,Education ,Education,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+55,Male,20 - 24 years,Economics ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,No effect,,No,,No,No,No,,,
+56,Male,20 - 24 years,Mathematical science,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+57,Male,25 - 29 years,History and Geography ,Humanities,No,,,At home,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Negative,,Yes,,No,Yes,Yes,,,
+58,Female,20 - 24 years,Law,Humanities,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+59,Female,15 - 19 years,Business Administration,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Not often,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+60,Male,20 - 24 years,School of Agriculture ,Basic and Applied Sciences,No,,,At a party,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+61,Male,20 - 24 years,History ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+62,Male,20 - 24 years,Economics,Humanities,Yes,Curiosity,Yes,From a friend,Rarely,Sativa,Edibles,To enhance creativity,Gh32,3.00 - 3.59,Always,1 - 10 hours,No,No,No effect,No,Yes,1 - 5 times,No,No,Yes,Personal No,1 - 5 times,
+63,Female,20 - 24 years,Geography,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+64,Male,20 - 24 years,Economics,Humanities,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,No effect,,Yes,,No,Yes,Yes,,,
+65,Female,20 - 24 years,Pharmacy,Health Sciences,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+66,Female,20 - 24 years,Dietetics,Health Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,No,,No,No,No,,,
+67,Female,15 - 19 years,Medical laboratory ,Health Sciences,No,,,From a friend,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+68,Male,20 - 24 years,Statistics and Actuarial science ,Basic and Applied Sciences,No,,,At a party,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,Yes,,Yes,Yes,Yes,,,
+69,Male,20 - 24 years,Economics and Statistics ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+70,Female,20 - 24 years,Education ,Education,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+71,Male,25 - 29 years,Economics,Humanities,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+72,Male,20 - 24 years,Economics ,Humanities,No,,,From a drug dealer,,,,,,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+73,Female,20 - 24 years,Computer Science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+74,Female,15 - 19 years,Archaeology ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+75,Male,20 - 24 years,Mathematics and Statistics  ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,No effect,,No,,No,Yes,No,,,
+76,Male,25 - 29 years,Religion ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+77,Male,25 - 29 years,Computer Science,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,,,Negative,,No,,Yes,Yes,No,,,
+78,Male,20 - 24 years,Earth Sciences ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+79,Female,20 - 24 years,Actuarial and statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+80,Male,25 - 29 years, Teacher Education ,Education,No,,,At home,,,,,,3.60 - 4.00,Always,Above 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+81,Male,20 - 24 years,Mathematics ,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+82,Male,20 - 24 years,Computer Science,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+83,Male,20 - 24 years,Mathematics and statistics,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+84,Female,20 - 24 years,Economics and Statistics ,Humanities,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+85,Male,20 - 24 years,Economics ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Not often,1 - 10 hours,,,Negative,,Yes,,No,Yes,Yes,,,
+86,Male,20 - 24 years,Business School and Economics ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+87,Male,30 years and above,Business ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+88,Male,20 - 24 years,Political Science ,Humanities,No,,,At home,,,,,,Below 2.00,2 - 4 times a week,1 - 10 hours,,,Negative,,No,,No,Yes,Yes,,,
+89,Male,15 - 19 years,Statistics ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+90,Male,15 - 19 years,Agriculture,Basic and Applied Sciences,No,,,From a friend,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+91,Male,20 - 24 years,Economics ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+92,Female,15 - 19 years,Dietetics,Health Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+93,Female,20 - 24 years,Economics ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+94,Male,20 - 24 years,Economics,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+95,Male,20 - 24 years,Medical laboratory sciences ,Health Sciences,No,,,On campus,,,,,,Below 2.00,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+96,Male,20 - 24 years,English ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,No effect,,Yes,,No,Yes,No,,1 - 5 times,
+97,Male,20 - 24 years,French,Humanities,Yes,Other,Yes,At a party,Rarely,Indica,Other,To relieve stress or anxiety,Gh18,3.00 - 3.59,Always,11 - 20 hours,No,No,Positive,No,No,1 - 5 times,No,Yes,Yes,Personal choice,,
+98,Male,20 - 24 years,Geography ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+99,Male,20 - 24 years,Economics ,Humanities,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+100,Male,20 - 24 years,Animal Biology ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+101,Female,20 - 24 years,Social work ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+102,Male,20 - 24 years,Information studies,Humanities,Yes,Other,Yes,On campus,Rarely,Hybrid,Edibles,To relax,Gh20,3.00 - 3.59,Always,1 - 10 hours,No,No,Negative,No,Yes,Above 10 times,No,Yes,Yes,Personal choice,1 - 5 times,No
+103,Male,20 - 24 years,Computer Science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+104,Male,25 - 29 years,Biochemistry,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+105,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,Yes,Other,No,At a party,Rarely,Indica,Edibles,To relax,Gh45,2.00 - 2.99,Always,Above 30 hours,No,No,Negative,No,Yes,Above 10 times,No,No,Yes,Personal choice,1 - 5 times,Yes
+106,Female,20 - 24 years,Statistics and Actuarial science ,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+107,Female,20 - 24 years, Political Science and Geography ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Not often,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+108,Male,20 - 24 years,Classics,Humanities,Yes,Curiosity,Yes,On campus,Monthly,Indica,Smoking,To relieve stress or anxiety,Gh35,3.00 - 3.59,2 - 4 times a week,11 - 20 hours,Yes,Yes,Negative,Yes,Yes,6 - 10 times,Yes,Yes,Yes,Personal choice,6 - 10 times,Yes
+109,Male,20 - 24 years,Economics,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+110,Female,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Not often,11 - 20 hours,,,No effect,,No,,No,No,No,,,
+111,Female,20 - 24 years,Mathematics and statistics ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+112,Female,20 - 24 years,Social work ,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+113,Female,20 - 24 years,Midwifery ,Health Sciences,No,,,At a party,,,,,,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+114,Female,20 - 24 years,English ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+115,Female,30 years and above,Nursing and Midwifery ,Health Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,Yes,,Yes,No,No,,,
+116,Female,25 - 29 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+117,Male,20 - 24 years,Economics and mathematics ,Humanities,No,,,At home,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+118,Male,20 - 24 years,Computer Science and Statistics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,Above 30 hours,,,No effect,,Yes,,No,No,No,,,
+119,Female,20 - 24 years,Accounting ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+120,Female,20 - 24 years,Mathematics and Statistics ,Basic and Applied Sciences,No,,,At a party,,,,,,2.00 - 2.99,Not often,1 - 10 hours,,,Positive,,No,,No,Yes,No,,,
+121,Male,25 - 29 years,French,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Not often,11 - 20 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+122,Male,20 - 24 years,Physics,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,Yes,,No,Yes,Yes,,,
+123,Female,20 - 24 years,Economics ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Not often,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+124,Male,20 - 24 years,Accounting ,Humanities,No,,,From a family member,,,,,,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,,,Negative,,No,,Yes,Yes,No,,,
+125,Female,20 - 24 years,Business school,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+126,Female,20 - 24 years,Linguistics,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+127,Male,20 - 24 years,Sociology ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+128,Male,20 - 24 years,Economics and Statistics ,Humanities,No,,,At home,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+129,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,Yes,Yes,Yes,,,
+130,Male,20 - 24 years,Political science ,Humanities,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+131,Male,25 - 29 years,Philosophy ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+132,Female,20 - 24 years,Statistics,Basic and Applied Sciences,Yes,Curiosity,Yes,From a friend,Rarely,Indica,Edibles,To relax,Gh50,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,No,Yes,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+133,Male,25 - 29 years,Economics and Statistics ,Humanities,No,,,From a family member,,,,,,3.60 - 4.00,Not often,Above 30 hours,,,No effect,,No,,No,No,No,,,
+134,Male,20 - 24 years,Medical science ,Health Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,Yes,,,
+135,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,Yes,Peer pressure,Yes,On campus,Monthly,Hybrid,Vaping,To socialize with friends,Gh60,2.00 - 2.99,Not often,1 - 10 hours,No,No,Positive,No,Yes,6 - 10 times,No,Yes,No,Both,1 - 5 times,No
+136,Male,20 - 24 years, Geoscience ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+137,Female,20 - 24 years,Actuarial and statistics ,Basic and Applied Sciences,No,,,At a party,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+138,Female,20 - 24 years,Psychology ,Humanities,No,,,On campus,,,,,,Below 2.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+139,Male,20 - 24 years, Economics ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+140,Male,20 - 24 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+141,Male,20 - 24 years,Business School ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Not often,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+142,Female,20 - 24 years,Geography,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Not often,1 - 10 hours,,,Positive,,Yes,,Yes,No,Yes,,,
+143,Male,20 - 24 years,Mathematics,Basic and Applied Sciences,Yes,Curiosity,No,On campus,Rarely,Sativa,Edibles,To relax,Gh50,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,Yes,Yes,Negative,No,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,Yes
+144,Male,20 - 24 years,Biochemistry ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,No,No,,,
+145,Male,20 - 24 years,Psychology and philosophy ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,2 - 4 times a week,1 - 10 hours,,,Positive,,Yes,,Yes,No,No,,,
+146,Male,20 - 24 years, Statistics and Actuarial science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,Yes,No,No,,,
+147,Male,20 - 24 years,Mathematics,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+148,Male,20 - 24 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,No,,No,Yes,Yes,,,
+149,Female,20 - 24 years,History and Linguistics ,Humanities,No,,,At a party,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,Yes,No,No,,,
+150,Male,20 - 24 years,Performing Arts ,Humanities,No,,,At home,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+151,Male,20 - 24 years,Mathematics and statistics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+152,Male,15 - 19 years,Animal biology ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+153,Male,20 - 24 years,Economics and Statistics,Humanities,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,Yes,,,
+154,Female,20 - 24 years,Statistics and actuarial science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+155,Female,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+156,Male,20 - 24 years,Actuarial science and statistics ,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+157,Male,20 - 24 years,Statistics,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,No effect,,No,,No,Yes,No,,,
+158,Male,20 - 24 years,Earth Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,No effect,,No,,No,No,No,,,
+159,Female,20 - 24 years,Threater Art,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+160,Male,20 - 24 years,Statistics and Actuarial science,Basic and Applied Sciences,No,,,On campus,,,,,,Below 2.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+161,Female,20 - 24 years,Economics,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+162,Male,20 - 24 years,Actuarial science and mathematics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+163,Female,20 - 24 years,Faculty of art and design ,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+164,Male,20 - 24 years,Information studies ,Humanities,No,,,At home,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,No,,No,Yes,Yes,,,
+165,Male,25 - 29 years,Physics,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+166,Male,20 - 24 years, Statistics and Actuarial Science,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,No effect,,No,,No,Yes,No,,,
+167,Female,20 - 24 years,Statistics  ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,No,,No,No,No,,,
+168,Male,20 - 24 years,Human resource studies and education ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+169,Male,20 - 24 years,Statistics and Actuarial Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,Yes,,,
+170,Male,20 - 24 years,Actuarial science and Statistics,Basic and Applied Sciences,No,,,At home,,,,,,Below 2.00,Not often,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+171,Male,20 - 24 years,Mathematics and Economics ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,No effect,,Yes,,No,No,No,,,
+172,Male,20 - 24 years,Nursing,Health Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+173,Male,15 - 19 years, Computer Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+174,Male,20 - 24 years,Computer Science ,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+175,Male,20 - 24 years,Computer Science ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+176,Male,20 - 24 years,French,Humanities,Yes,Curiosity,Yes,From a friend,Daily,Hybrid,Smoking,To socialize with friends,Gh100,2.00 - 2.99,Not often,1 - 10 hours,No,No,Positive,Yes,Yes,1 - 5 times,No,No,Yes,Personal choice,1 - 5 times,No
+177,Male,25 - 29 years,Social work ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Positive,,Yes,,Yes,No,Yes,,,
+178,Male,15 - 19 years,Economics ,Humanities,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+179,Female,20 - 24 years,Mathematics,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+180,Male,25 - 29 years,Accounting ,Humanities,Yes,Other,Yes,On campus,Monthly,Hybrid,Other,To relax,,3.60 - 4.00,Always,1 - 10 hours,No,No,Positive,Yes,Yes,1 - 5 times,No,Yes,Yes,Both,1 - 5 times,No
+181,Male,15 - 19 years,Computer Science ,Basic and Applied Sciences,No,,,On campus,,,,,Gh30,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,No,No,Yes,,,
+182,Male,25 - 29 years,Physics,Basic and Applied Sciences,No,,,At a party,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,No effect,,No,,No,Yes,Yes,,,
+183,Female,20 - 24 years,Animal biology and conservative science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+184,Male,15 - 19 years,Mathematical science ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+185,Male,15 - 19 years,Mathematics ,Basic and Applied Sciences,No,,,From a family member,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+186,Male,15 - 19 years,Computer Science,Basic and Applied Sciences,No,,,From a family member,,,,,,Below 2.00,Always,1 - 10 hours,,,No effect,,Yes,,No,Yes,No,,,
+187,Male,20 - 24 years,Economics ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+188,Male,20 - 24 years,French,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+189,Male,15 - 19 years,Mathematics ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+190,Male,20 - 24 years, Economics ,Humanities,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+191,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,No,,No,No,No,,,
+192,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,At home,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+193,Male,20 - 24 years, Physician Assistantship Studies,Health Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+194,Female,20 - 24 years, social sciences,Humanities,No,,,From a drug dealer,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+195,Male,20 - 24 years,IT,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,No effect,,No,,No,No,No,,,
+196,Female,15 - 19 years,English,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+197,Male,15 - 19 years,Mathematical Science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,No effect,,Yes,,No,Yes,No,,,
+198,Male,20 - 24 years,Mathematics ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Not often,21 - 30 hours,,,Negative,,No,,No,No,No,,,
+199,Male,20 - 24 years, Mathematics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Positive,,No,,No,Yes,No,,,
+200,Male,20 - 24 years,Mathematics  ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,Above 30 hours,,,Negative,,No,,No,Yes,No,,,
+201,Female,15 - 19 years,Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,No,No,,,
+202,Male,15 - 19 years,Mathematics ,Education,No,,,At home,,,,,,3.60 - 4.00,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+203,Male,20 - 24 years,Computer science,Basic and Applied Sciences,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+204,Male,20 - 24 years,Statistics,Education,No,,,From a friend,,,,,,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+205,Female,20 - 24 years, Geography ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+206,Female,15 - 19 years,Mathematics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+207,Male,20 - 24 years,Actuarial science and statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+208,Male,20 - 24 years,Information Studies ,Education,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+209,Male,20 - 24 years,medical laboratory Science,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+210,Female,20 - 24 years,Medicine,Health Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,No,,No,Yes,No,,,
+211,Male,20 - 24 years,Accounting,Humanities,No,,,From a drug dealer,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+212,Male,15 - 19 years,Earth Sciences ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+213,Male,20 - 24 years,Mathematic,Basic and Applied Sciences,No,,,At a party,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,No,No,,,
+214,Male,20 - 24 years,Sociology ,Humanities,No,,,From a friend,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+215,Male,30 years and above,Mathematics,Basic and Applied Sciences,No,,,From a family member,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,No,,No,Yes,Yes,,,
+216,Female,15 - 19 years,Economics and statistics ,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,No,,No,Yes,No,,,
+217,Female,20 - 24 years,Music,Humanities,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,Yes,,No,Yes,No,,,
+218,Male,20 - 24 years,Computer science ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+219,Female,20 - 24 years,Actuarial science and Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,No effect,,No,,No,Yes,No,,,
+220,Male,20 - 24 years, Mathematics and Statistics,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+221,Male,30 years and above,Teachers Education and leadership ,Education,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,Yes,,No,No,No,,,
+222,Female,20 - 24 years, sociology ,Humanities,Yes,Peer pressure,Yes,From a drug dealer,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh30,3.00 - 3.59,Not often,11 - 20 hours,Yes,No,Positive,No,Yes,Above 10 times,Yes,No,Yes,Personal choice,6 - 10 times,Yes
+223,Female,15 - 19 years,Business Administration,Humanities,No,,,From a friend,,,,,,Below 2.00,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+224,Female,15 - 19 years,Statistics ,Basic and Applied Sciences,Yes,Peer pressure,No,On campus,Weekly,Sativa,Edibles,To relax,Gh33,Below 2.00,Always,Above 30 hours,Yes,No,Negative,Yes,Yes,6 - 10 times,Yes,Yes,Yes,Both,6 - 10 times,Yes
+225,Male,20 - 24 years,Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,,,Negative,,Yes,,Yes,No,Yes,,,
+226,Male,20 - 24 years,Business School ,Humanities,Yes,Curiosity,Yes,From a friend,Weekly,Sativa,Edibles,To relax,Gh45 ,2.00 - 2.99,Always,11 - 20 hours,No,No,Positive,Yes,Yes,6 - 10 times,Yes,No,Yes,Personal choice,6 - 10 times,Yes
+227,Female,15 - 19 years,Chemistry ,Basic and Applied Sciences,No,,,From a family member,,,,,,3.00 - 3.59,2 - 4 times a week,11 - 20 hours,,,Positive,,Yes,,Yes,No,Yes,,,
+228,Male,25 - 29 years,Education ,Education,Yes,Peer pressure,Yes,From a drug dealer,Rarely,Hybrid,Smoking,To relax,Gh34,Below 2.00,Always,11 - 20 hours,Yes,No,Positive,No,Yes,6 - 10 times,Yes,Yes,Yes,Societal choice,1 - 5 times,No
+229,Male,25 - 29 years,Sociology ,Humanities,Yes,Other,No,On campus,Rarely,Indica,Other,To relieve stress or anxiety,Gh30,Below 2.00,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,6 - 10 times,Yes,No,Yes,Personal choice,6 - 10 times,No
+230,Male,15 - 19 years,Economics ,Humanities,Yes,Peer pressure,Yes,At a party,Weekly,Indica,Smoking,To relax,Gh40,3.00 - 3.59,Not often,21 - 30 hours,Yes,Yes,Positive,No,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+231,Male,15 - 19 years,Economics ,Humanities,Yes,Peer pressure,Yes,From a family member,Rarely,Indica,Vaping,To relax,Gh46,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Negative,No,Yes,1 - 5 times,No,No,Yes,Societal choice,1 - 5 times,No
+232,Female,20 - 24 years,Political science ,Humanities,Yes,Peer pressure,No,At home,Rarely,Sativa,Edibles,To enhance creativity,Gh45,3.00 - 3.59,Always,11 - 20 hours,No,No,Positive,No,Yes,6 - 10 times,Yes,No,Yes,Societal choice,1 - 5 times,No
+233,Female,20 - 24 years,Political science ,Humanities,Yes,Curiosity,No,From a family member,Weekly,Sativa,Smoking,To relax,Gh25,2.00 - 2.99,Always,11 - 20 hours,No,No,Negative,No,Yes,6 - 10 times,Yes,No,Yes,Personal choice,1 - 5 times,Yes
+234,Male,25 - 29 years,Political science ,Humanities,Yes,Other,Yes,From a friend,Weekly,Indica,Edibles,To relieve stress or anxiety,Gh28,2.00 - 2.99,Always,21 - 30 hours,No,No,Negative,No,Yes,1 - 5 times,Yes,No,Yes,Personal choice,1 - 5 times,Yes
+235,Male,25 - 29 years,Psychology ,Humanities,Yes,Other,No,From a drug dealer,Rarely,Sativa,Edibles,To enhance creativity,Gh30,2.00 - 2.99,Always,11 - 20 hours,No,No,Positive,No,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+236,Female,20 - 24 years,French,Humanities,Yes,Peer pressure,Yes,At a party,Weekly,Sativa,Edibles,To enhance creativity,Gh50,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,No,Yes,6 - 10 times,Yes,Yes,Yes,Societal choice,1 - 5 times,Yes
+237,Male,20 - 24 years,Psychology ,Humanities,Yes,Other,Yes,From a family member,Rarely,Sativa,Edibles,To relax,Gh35,3.00 - 3.59,Always,21 - 30 hours,Yes,No,Negative,No,Yes,1 - 5 times,Yes,No,Yes,Personal choice,1 - 5 times,No
+238,Male,20 - 24 years,Psychology ,Humanities,Yes,Other,Yes,At home,Weekly,Sativa,Edibles,To relieve stress or anxiety,Gh25,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,No,No,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,Yes
+239,Male,25 - 29 years,Information studies,Humanities,Yes,Peer pressure,Yes,From a drug dealer,Weekly,Sativa,Edibles,To relax,Gh35,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,No,Positive,Yes,Yes,1 - 5 times,Yes,No,Yes,Personal choice,1 - 5 times,No
+240,Male,20 - 24 years,Linguistics ,Humanities,Yes,Other,No,On campus,Weekly,Sativa,Smoking,To relax,Gh30,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,No,Yes,1 - 5 times,Yes,No,Yes,Personal choice,1 - 5 times,No
+241,Female,20 - 24 years,Linguistics ,Humanities,Yes,Other,Yes,At a party,Weekly,Sativa,Smoking,To enhance creativity,Gh35,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,No,No,Negative,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+242,Male,20 - 24 years,Linguistics ,Humanities,Yes,Curiosity,Yes,At home,Weekly,Sativa,Vaping,To enhance creativity,Gh40,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,1 - 5 times,Yes,Yes,Yes,Societal choice,1  - 5 times,No
+243,Male,20 - 24 years,Linguistics ,Humanities,Yes,Other,No,At a party,Weekly,Sativa,Edibles,To enhance creativity,Gh36,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,No,Yes,1 - 5 times,Yes,No,Yes,Societal choice,1 - 5 times,Yes
+244,Male,20 - 24 years,Linguistics ,Humanities,Yes,Other,Yes,At home,Weekly,Sativa,Smoking,To enhance creativity,Gh25,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,1 - 5 times,No,Yes,Yes,Societal choice,6 - 10 times,Yes
+245,Male,20 - 24 years,Linguistics ,Humanities,Yes,Other,Yes,At home,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh25,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,Yes,Positive,Yes,Yes,6 - 10 times,Yes,Yes,Yes,Societal choice,6 - 10 times,No
+246,Male,20 - 24 years,Linguistics ,Humanities,Yes,Curiosity,Yes,From a family member,Weekly,Sativa,Smoking,To relax,Gh40,3.00 - 3.59,Not often,11 - 20 hours,Yes,Yes,Positive,No,Yes,6 - 10 times,Yes,No,Yes,Personal choice,1 - 5 times,No
+247,Female,25 - 29 years,Linguistics ,Humanities,Yes,Peer pressure,Yes,From a family member,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh30,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,Yes,Yes,1 - 5 times,No,No,Yes,Personal choice,1 - 5 times,No
+248,Female,20 - 24 years,Linguistics ,Humanities,Yes,Curiosity,Yes,From a family member,Weekly,Sativa,Edibles,To relieve stress or anxiety,Gh25,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,Yes
+249,Male,25 - 29 years,Linguistics ,Humanities,Yes,Curiosity,Yes,From a friend,Weekly,Indica,Smoking,To relax,Gh20,Below 2.00,Not often,11 - 20 hours,Yes,Yes,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Societal choice,1 - 5 times,Yes
+250,Female,20 - 24 years,Information studies ,Humanities,Yes,Curiosity,Yes,From a friend,Weekly,Sativa,Edibles,To relax,Gh30,2.00 - 2.99,Always,21 - 30 hours,No,No,Positive,No,Yes,6 - 10 times,No,Yes,Yes,Personal choice,1 - 5 times,No
+251,Female,25 - 29 years,Accounting ,Humanities,Yes,Curiosity,Yes,On campus,Weekly,Indica,Edibles,To relax,Gh10,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,Yes,No,Positive,Yes,Yes,1 - 5 times,Yes,No,Yes,Personal choice,6 - 10 times,No
+252,Male,20 - 24 years,Information studies ,Humanities,Yes,Other,Yes,From a friend,Daily,Indica,Vaping,To socialize with friends,Gh100,2.00 - 2.99,Not often,1 - 10 hours,Yes,Yes,No effect,Yes,Yes,6 - 10 times,Yes,No,No,Personal choice,6 - 10 times,No
+253,Male,15 - 19 years,Nursing ,Health Sciences,Yes,Peer pressure,Yes,From a family member,Rarely,Hybrid,Vaping,To relieve stress or anxiety,Gh35,3.60 - 4.00,2 - 4 times a week,21 - 30 hours,Yes,No,No effect,Yes,Yes,6 - 10 times,Yes,Yes,No,Societal choice,6 - 10 times,No
+254,Male,15 - 19 years,Political science ,Humanities,No,,,At home,,,,,,3.60 - 4.00,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,Yes,No,Yes,,,
+255,Male,20 - 24 years,Marketing ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+256,Female,20 - 24 years,Linguistics,Humanities,No,,,From a family member,,,,,,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,,,No effect,,Yes,,No,No,Yes,,,
+257,Male,30 years and above,Earth science,Basic and Applied Sciences,Yes,Curiosity,Yes,From a friend,Rarely,Sativa,Smoking,To socialize with friends,Gh150,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,Yes,Yes,No effect,No,Yes,6 - 10 times,Yes,No,Yes,Personal choice,1 - 5 times,Yes
+258,Female,15 - 19 years,French,Humanities,No,,,From a family member,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+259,Male,15 - 19 years,Arabic,Humanities,Yes,Peer pressure,Yes,On campus,Weekly,Hybrid,Edibles,To relieve stress or anxiety,Gh100,Below 2.00,2 - 4 times a week,11 - 20 hours,Yes,Yes,Negative,Yes,Yes,1 - 5 times,Yes,No,Yes,Both,6 - 10 times,No
+260,Female,30 years and above,Public health,Health Sciences,Yes,Peer pressure,Yes,At home,Monthly,Sativa,Vaping,To relieve stress or anxiety,Gh50,3.00 - 3.59,Not often,Above 30 hours,Yes,Yes,No effect,Yes,Yes,Above 10 times,Yes,No,Yes,Personal choice,1 - 5 times,Yes
+261,Female,20 - 24 years,Computer science ,Basic and Applied Sciences,Yes,Peer pressure,Yes,From a family member,Rarely,Hybrid,Vaping,To relieve stress or anxiety,Gh100,3.00 - 3.59,Always,1 - 10 hours,Yes,Yes,Positive,Yes,No,6 - 10 times,Yes,No,Yes,Personal choice,1 - 5 times,No
+262,Male,25 - 29 years,Chemistry ,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,2 - 4 times a week,21 - 30 hours,,,No effect,,Yes,,Yes,No,Yes,,,
+263,Female,20 - 24 years,English ,Humanities,No,,,On campus,,,,,,Below 2.00,Always,11 - 20 hours,,,Positive,,No,,Yes,Yes,Yes,,,
+264,Female,15 - 19 years,Economics ,Humanities,No,,,From a drug dealer,,,,,,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,,,No effect,,Yes,,Yes,Yes,Yes,,,
+265,Male,20 - 24 years,Mathematics ,Basic and Applied Sciences,Yes,Curiosity,Yes,On campus,Weekly,Indica,Vaping,To enhance creativity,Gh70,3.00 - 3.59,Always,1 - 10 hours,Yes,Yes,Positive,No,Yes,1 - 5 times,Yes,No,Yes,Personal choice,Above 10 times,No
+266,Female,20 - 24 years,Plant and animal biology ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+267,Male,15 - 19 years,Biochemistry ,Basic and Applied Sciences,Yes,Other,No,At a party,Monthly,Indica,Edibles,To relax,Gh90,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,Yes,Yes,No effect,Yes,Yes,6 - 10 times,Yes,Yes,Yes,Societal choice,6 - 10 times,Yes
+268,Male,25 - 29 years,Physics,Basic and Applied Sciences,Yes,Curiosity,Yes,From a friend,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh120,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,Yes,No effect,No,No,6 - 10 times,Yes,No,Yes,Both,6 - 10 times,No
+269,Male,15 - 19 years,Theatre arts,Humanities,Yes,Peer pressure,Yes,From a friend,Rarely,Indica,Smoking,To enhance creativity,Gh90,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,No,No,Positive,No,No,6 - 10 times,No,Yes,No,Both,6 - 10 times,No
+270,Male,20 - 24 years,Education ,Humanities,No,,,From a family member,,,,,,Below 2.00,Not often,Above 30 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+271,Female,20 - 24 years,Law,Humanities,No,,,On campus,,,,,,3.00 - 3.59,2 - 4 times a week,Above 30 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+272,Female,15 - 19 years,Psychology,Humanities,Yes,Curiosity,Yes,On campus,Weekly,Sativa,Edibles,To relieve stress or anxiety,Gh75,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,No effect,No,Yes,1 - 5 times,Yes,No,No,Both,6 - 10 times,No
+273,Male,20 - 24 years,Philosophy ,Humanities,Yes,Peer pressure,Yes,From a friend,Monthly,Sativa,Edibles,To socialize with friends,Gh60,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,No,No,Positive,Yes,Yes,1 - 5 times,No,No,Yes,Personal choice,6 - 10 times,No
+274,Female,25 - 29 years,Sociology ,Humanities,Yes,Peer pressure,No,From a friend,Rarely,Indica,Vaping,To enhance creativity,Gh55,3.00 - 3.59,2 - 4 times a week,11 - 20 hours,Yes,No,No effect,No,No,Above 10 times,No,Yes,Yes,Personal choice,Above 10 times,No
+275,Female,20 - 24 years,Dance,Humanities,Yes,Curiosity,No,At a party,Daily,Hybrid,Edibles,To enhance creativity,Gh57,Below 2.00,2 - 4 times a week,11 - 20 hours,No,No,Positive,Yes,Yes,6 - 10 times,No,Yes,Yes,Both,6 - 10 times,No
+276,Male,15 - 19 years,Linguistics ,Humanities,Yes,Peer pressure,No,At a party,Rarely,Sativa,Smoking,To relieve stress or anxiety,Gh35,2.00 - 2.99,Not often,11 - 20 hours,Yes,Yes,Positive,No,Yes,1 - 5 times,No,Yes,Yes,Societal choice,Above 10 times,Yes
+277,Male,20 - 24 years,Dance ,Humanities,Yes,Peer pressure,No,On campus,Weekly,Sativa,Edibles,To socialize with friends,Gh30,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,No,Yes,6 - 10 times,No,No,No,Societal choice,6 - 10 times,Yes
+278,Male,25 - 29 years,Dance ,Humanities,Yes,Curiosity,Yes,From a family member,Weekl,Indica,Vaping,To relax,Gh40,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,Yes,Yes,Negative,Yes,Yes,1 - 5 times,No,No,Yes,Societal choice,1 - 5 times,No
+279,Female,25 - 29 years,Dance ,Humanities,Yes,Curiosity,Yes,At a party,Weekly,Sativa,Edibles,To enhance creativity,Gh50,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,Yes,Yes,Negative,No,Yes,6 - 10 times,Yes,Yes,Yes,Both,6 - 10 times,Yes
+280,Male,25 - 29 years,Dance ,Humanities,Yes,Peer pressure,No,At a party,Weekly,Indica,Smoking,To enhance creativity,Gh45,Below 2.00,Not often,1 - 10 hours,Yes,Yes,Negative,No,Yes,Above 10 times,Yes,Yes,Yes,Both,Above 10 times,Yes
+281,Female,25 - 29 years,Dance ,Humanities,Yes,Peer pressure,Yes,From a drug dealer,Weekly,Sativa,Vaping,To relieve stress or anxiety,Gh43,Below 2.00,2 - 4 times a week,1 - 10 hours,,No,Negative,No,Yes,6 - 10 times,Yes,Yes,Yes,Personal choice,6 - 10 times,No
+282,Male,25 - 29 years,Dance,Humanities,Yes,Curiosity,Yes,At a party,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh50,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,,No,No effect,No,Yes,Above 10 times,Yes,Yes,Yes,Societal choice,Above 10 times,No
+283,Male,20 - 24 years,Dance,Humanities,Yes,Other,Yes,At home,Rarely,Sativa,Edibles,To relieve stress or anxiety,Gh50,2.00 - 2.99,Not often,11 - 20 hours,Yes,Yes,No effect,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Both,1 - 5 times,No
+284,Male,20 - 24 years,Linguistics ,Humanities,Yes,Peer pressure,Yes,From a friend,Rarely,Sativa,Edibles,To enhance creativity,Gh25,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Both,1 - 5 times,No
+285,Male,20 - 24 years,Education ,Education,Yes,Peer pressure,Yes,From a drug dealer,Weekly,Sativa,Vaping,To enhance creativity,Gh60,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Negative,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+286,Male,20 - 24 years,Sociology ,Humanities,Yes,Other,Yes,From a friend,Weekly,Indica,Edibles,To enhance creativity,Gh46,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Both,1 - 5 times,Yes
+287,Female,20 - 24 years,Theater art ,Humanities,Yes,Curiosity,Yes,From a family member,Rarely,Sativa,Smoking,To enhance creativity,Gh15,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Negative,No,Yes,6 - 10 times,Yes,Yes,Yes,Societal choice,6 - 10 times,Yes
+288,Female,25 - 29 years,Statistics ,Education,Yes,Curiosity,Yes,From a drug dealer,Weekly,Sativa,Edibles,To relieve stress or anxiety,Gh26,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,Yes,Yes,6 - 10 times,Yes,No,Yes,Personal choice,6 - 10 times,No
+289,Male,25 - 29 years,Theater art ,Humanities,Yes,Peer pressure,Yes,From a friend,Rarely,Sativa,Edibles,To relieve stress or anxiety,Gh16,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,Yes,Yes,6 - 10 times,Yes,No,Yes,Societal choice,6 - 10 times,No
+290,Male,20 - 24 years,Sociology ,Humanities,Yes,Peer pressure,Yes,From a friend,Daily,Indica,Edibles,To relax,Gh80,Below 2.00,Not often,1 - 10 hours,Yes,Yes,Positive,No,Yes,Above 10 times,Yes,Yes,Yes,Both,Above 10 times,No
+291,Male,25 - 29 years,Sociology ,Humanities,Yes,Curiosity,No,From a drug dealer,Weekly,Sativa,Smoking,To relieve stress or anxiety,Gh27,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,No,No,Negative,Yes,Yes,1 - 5 times,Yes,No,Yes,Societal choice,1 - 5 times,No
+292,Male,20 - 24 years,Sociology ,Humanities,Yes,Other,No,From a friend,Rarely,Sativa,Edibles,To relieve stress or anxiety,Gh35,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Both,6 - 10 times,No
+293,Female,20 - 24 years,Sociology ,Humanities,Yes,Curiosity,Yes,From a family member,Rarely,Sativa,Edibles,To enhance creativity,Gh36,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Negative,No,Yes,1 - 5 times,No,Yes,Yes,Societal choice,1 - 5 times,Yes
+294,Female,20 - 24 years,Theater art ,Humanities,Yes,Curiosity,Yes,From a friend,Rarely,Sativa,Edibles,To enhance creativity,Gh55,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,No,Yes,6 - 10 times,No,No,Yes,Societal choice,6 - 10 times,Yes
+295,Male,20 - 24 years,Theater art ,Humanities,Yes,Curiosity,No,At home,Rarely,Sativa,Edibles,To enhance creativity,Gh44,2.00 - 2.99,2 - 4 times a week,11 - 20 hours,No,No,Positive,No,Yes,6 - 10 times,No,No,Yes,Societal choice,6 - 10 times,Yes
+296,Male,20 - 24 years,Theater art ,Humanities,Yes,Other,No,From a drug dealer,Weekly,Sativa,Edibles,To relieve stress or anxiety,Gh33,Below 2.00,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,No,Yes,1 - 5 times,No,No,Yes,Societal choice,1 - 5 times,No
+297,Male,25 - 29 years,Theater art ,Humanities,Yes,Curiosity,Yes,From a friend,Rarel,Sativa,Vaping,To relieve stress or anxiety,Gh20,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,No,No,Negative,Yes,Yes,1 - 5 times,No,Yes,Yes,Societal choice,1 - 5 times,No
+298,Female,20 - 24 years,Sociology ,Humanities,Yes,Other,Yes,From a family member,Weekly,Sativa,Edibles,To enhance creativity,Gh40,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,Yes,Yes,Negative,Yes,Yes,1 - 5 times,No,Yes,Yes,Societal choice,6 - 10 times,No
+299,Male,20 - 24 years,Economics ,Humanities,Yes,Peer pressure,No,At home,Weekly,Sativa,Vaping,To enhance creativity,Gh78,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,Yes,Yes,No effect,Yes,Yes,6 - 10 times,Yes,Yes,No,Both,1 - 5 times,No
+300,Female,25 - 29 years,Sociology ,Humanities,Yes,Curiosity,No,At a party,Weekly,Indica,Smoking,To relax,Gh66,Below 2.00,2 - 4 times a week,Above 30 hours,No,Yes,No effect,Yes,No,6 - 10 times,Yes,No,No,Both,6 - 10 times,No
+301,Female,15 - 19 years,Philosophy ,Humanities,Yes,Curiosity,Yes,From a friend,Weekly,Indica,Edibles,To relieve stress or anxiety,Gh100,3.00 - 3.59,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,Yes,Yes,1 - 5 times,Yes,Yes,Yes,Personal choice,1 - 5 times,No
+302,Male,15 - 19 years,Information studies ,Humanities,Yes,Curiosity,No,At home,Rarely,Sativa,Edibles,To enhance creativity,Gh120,Below 2.00,Not often,Above 30 hours,No,No,No effect,No,Yes,Above 10 times,No,No,No,Personal choice,Above 10 times,Yes
+303,Male,15 - 19 years,Economics ,Humanities,No,,,At a party,,,,,,3.00 - 3.59,Not often,21 - 30 hours,,,Positive,,Yes,,Yes,No,No,,,
+304,Female,25 - 29 years,Dance,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Always,11 - 20 hours,,,No effect,,No,,No,No,No,,,
+305,Male,20 - 24 years,Spanish ,Humanities,Yes,Curiosity,Yes,From a drug dealer,Rarely,Indica,Smoking,To relieve stress or anxiety,Gh116,3.00 - 3.59,Always,21 - 30 hours,No,No,Positive,Yes,Yes,6 - 10 times,No,No,No,Both,1 - 5 times,Yes
+306,Male,20 - 24 years,Marketing ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,Above 30 hours,,,Negative,,Yes,,Yes,No,No,,,
+307,Male,15 - 19 years,Nursing,Health Sciences,No,,,At home,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,No effect,,No,,Yes,No,No,,,
+308,Male,20 - 24 years,Economics ,Humanities,No,,,From a friend,,,,,,Below 2.00,2 - 4 times a week,Above 30 hours,,,Negative,,Yes,,No,Yes,Yes,,,
+309,Male,20 - 24 years,Religion ,Humanities,No,,,On campus,,,,,,Below 2.00,2 - 4 times a week,21 - 30 hours,,,No effect,,Yes,,No,No,No,,,
+310,Male,15 - 19 years,Computer science ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Not often,Above 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+311,Female,15 - 19 years,Statistics ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,Below 2.00,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+312,Female,20 - 24 years,Psychology ,Humanities,No,,,From a friend,,,,,,3.60 - 4.00,Not often,Above 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+313,Male,25 - 29 years,Theatre arts,Humanities,No,,,From a family member,,,,,,3.00 - 3.59,Not often,Above 30 hours,,,Negative,,Yes,,No,Yes,Yes,,,
+314,Female,15 - 19 years,English ,Humanities,No,,,At home,,,,,,3.60 - 4.00,2 - 4 times a week,Above 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+315,Female,15 - 19 years,Biochemistry ,Basic and Applied Sciences,No,,,On campus,,,,,,3.60 - 4.00,2 - 4 times a week,11 - 20 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+316,Male,15 - 19 years,Human resources ,Humanities,No,,,On campus,,,,,,2.00 - 2.99,Always,11 - 20 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+317,Male,25 - 29 years,Engineering ,Basic and Applied Sciences,Yes,Curiosity,Yes,From a friend,Weekly,Indica,Smoking,To relieve stress or anxiety,Gh67,3.00 - 3.59,Always,21 - 30 hours,No,,Positive,Yes,Yes,1 - 5 times,Yes,Yes,No,Personal choice,6 - 10 times ,Yes
+318,Female,15 - 19 years,Sociology ,Humanities,No,,,At home,,,,,,3.60 - 4.00,Always,21 - 30 hours,,,Positive,,Yes,,Yes,Yes,No,,,
+319,Male,25 - 29 years,Statistics ,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,2 - 4 times a week,21 - 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+320,Male,15 - 19 years,Chemistry ,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+321,Female,15 - 19 years,Dance,Humanities,No,,,On campus,,,,,,2.00 - 2.99,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+322,Male,15 - 19 years,English ,Humanities,No,,,On campus,,,,,,Below 2.00,2 - 4 times a week,1 - 10 hours,,,Negative,,Yes,,No,Yes,No,,,
+323,Male,20 - 24 years,Agriculture,Basic and Applied Sciences,No,,,From a friend,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,Yes,,No,Yes,No,,,
+324,Male,15 - 19 years,French ,Humanities,No,,,On campus,,,,,,3.00 - 3.59,Always,11 - 20 hours,,,Negative,,Yes,,No,Yes,No,,,
+325,Male,15 - 19 years,Medilab,Basic and Applied Sciences,No,,,At home,,,,,,3.00 - 3.59,Always,1 - 10 hours,,,No effect,,No,,No,Yes,Yes,,,
+326,Male,25 - 29 years,Education ,Education,No,,,From a drug dealer,,,,,,3.00 - 3.59,Always,Above 30 hours,,,Negative,,Yes,,Yes,Yes,Yes,,,
+327,Male,15 - 19 years,Biology ,Basic and Applied Sciences,No,,,On campus,,,,,,3.00 - 3.59,Always,Above 30 hours,,,No effect,,Yes,,No,Yes,No,,,
+328,Female,20 - 24 years,Computer science ,Humanities,No,,,On campus,,,,,,3.60 - 4.00,Always,1 - 10 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+329,Female,15 - 19 years,Dance,Humanities,No,,,From a drug dealer,,,,,,3.60 - 4.00,2 - 4 times a week,Above 30 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+330,Female,20 - 24 years,Public health ,Health Sciences,No,,,From a drug dealer,,,,,,3.60 - 4.00,Not often,21 - 30 hours,,,Negative,,No,,No,Yes,No,,,
+331,Male,25 - 29 years,Maths,Basic and Applied Sciences,No,,,From a drug dealer,,,,,,2.00 - 2.99,Always,Above 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+332,Male,25 - 29 years,IT,Basic and Applied Sciences,No,,,From a friend,,,,,,2.00 - 2.99,Always,21 - 30 hours,,,Negative,,Yes,,Yes,Yes,No,,,
+333,Female,25 - 29 years,Biochemistry ,Basic and Applied Sciences,No,,,From a family member,,,,,,3.00 - 3.59,Not often,21 - 30 hours,,,No effect,,Yes,,Yes,Yes,No,,,
+334,Female,15 - 19 years,Agric,Basic and Applied Sciences,Yes,Curiosity,Yes,At a party,Weekly,Hybrid,Other,To relax,Gh39,2.00 - 2.99,2 - 4 times a week,21 - 30 hours,No,No,Positive,No,Yes,6 - 10 times,Yes,Yes,Yes,Both,1 - 5 times,No
+335,Male,15 - 19 years,Engineering ,Basic and Applied Sciences,Yes,Peer pressure,Yes,On campus,Weekly,Sativa,Vaping,To relieve stress or anxiety,Gh100,Below 2.00,2 - 4 times a week,11 - 20 hours,Yes,Yes,Positive,No,Yes,1 - 5 times,No,Yes,Yes,Societal choice,Above 10 times,No
